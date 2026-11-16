@@ -1,0 +1,3745 @@
+[
+  [
+    {
+      "text": "T'imagines",
+      "startMs": 4200,
+      "endMs": 5260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "un",
+      "startMs": 5260,
+      "endMs": 5560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "món",
+      "startMs": 5560,
+      "endMs": 5820,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "on",
+      "startMs": 5820,
+      "endMs": 6160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "el",
+      "startMs": 6160,
+      "endMs": 6340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "mòbil",
+      "startMs": 6340,
+      "endMs": 6660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sàpiga",
+      "startMs": 6660,
+      "endMs": 7200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 7200,
+      "endMs": 7400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "estàs",
+      "startMs": 7400,
+      "endMs": 7720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "malalt",
+      "startMs": 7720,
+      "endMs": 8200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "abans",
+      "startMs": 8200,
+      "endMs": 8960,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 8960,
+      "endMs": 9160,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "tu?",
+      "startMs": 9160,
+      "endMs": 9380,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Pot",
+      "startMs": 10600,
+      "endMs": 11227,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "semblar",
+      "startMs": 11227,
+      "endMs": 11853,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ciència-ficció,",
+      "startMs": 11853,
+      "endMs": 12480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "però",
+      "startMs": 12480,
+      "endMs": 12740,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 12740,
+      "endMs": 12900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ho",
+      "startMs": 12900,
+      "endMs": 13040,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 13040,
+      "endMs": 13140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tant.",
+      "startMs": 13140,
+      "endMs": 13300,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Alguns",
+      "startMs": 13640,
+      "endMs": 14000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "rellotges",
+      "startMs": 14000,
+      "endMs": 14340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "intel·ligents",
+      "startMs": 14340,
+      "endMs": 15160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ja",
+      "startMs": 15160,
+      "endMs": 15880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "detecten",
+      "startMs": 15880,
+      "endMs": 16420,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "canvis",
+      "startMs": 16420,
+      "endMs": 16840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "en",
+      "startMs": 16840,
+      "endMs": 17060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "el",
+      "startMs": 17060,
+      "endMs": 17590,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pols",
+      "startMs": 17590,
+      "endMs": 18120,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 18120,
+      "endMs": 18200,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "avisen",
+      "startMs": 18200,
+      "endMs": 18460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 18460,
+      "endMs": 18640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "alguna",
+      "startMs": 18640,
+      "endMs": 18880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "cosa",
+      "startMs": 18880,
+      "endMs": 19280,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 19280,
+      "endMs": 19660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "va",
+      "startMs": 19660,
+      "endMs": 19660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "bé.",
+      "startMs": 19660,
+      "endMs": 19700,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "startMs": 20400,
+      "endMs": 20560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "al",
+      "startMs": 20560,
+      "endMs": 20745,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "darrere",
+      "startMs": 20745,
+      "endMs": 20930,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "hi",
+      "startMs": 20930,
+      "endMs": 21115,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ha",
+      "startMs": 21115,
+      "endMs": 21300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 21300,
+      "endMs": 21920,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "intel·ligència",
+      "startMs": 21920,
+      "endMs": 22400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "artificial.",
+      "startMs": 22400,
+      "endMs": 22920,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Però,",
+      "startMs": 24900,
+      "endMs": 25400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "què",
+      "startMs": 25400,
+      "endMs": 25600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 25600,
+      "endMs": 25800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "exactament",
+      "startMs": 25800,
+      "endMs": 26360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 26360,
+      "endMs": 26580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "IA?",
+      "startMs": 26580,
+      "endMs": 27000,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "És",
+      "startMs": 27440,
+      "endMs": 27660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 27660,
+      "endMs": 27760,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "capacitat",
+      "startMs": 27760,
+      "endMs": 28360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 28360,
+      "endMs": 28560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "les",
+      "startMs": 28560,
+      "endMs": 28680,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "màquines",
+      "startMs": 28680,
+      "endMs": 29100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 29380,
+      "endMs": 29440,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fer",
+      "startMs": 29440,
+      "endMs": 29600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tasques",
+      "startMs": 29600,
+      "endMs": 30000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 30000,
+      "endMs": 30520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "normalment",
+      "startMs": 30520,
+      "endMs": 31100,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "necessiten",
+      "startMs": 31100,
+      "endMs": 31820,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "intel·ligència",
+      "startMs": 31820,
+      "endMs": 32400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "humana:",
+      "startMs": 32400,
+      "endMs": 33700,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "reconèixer",
+      "startMs": 34220,
+      "endMs": 34860,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "una",
+      "startMs": 34860,
+      "endMs": 35060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "cara,",
+      "startMs": 35060,
+      "endMs": 35400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "entendre",
+      "startMs": 36060,
+      "endMs": 36340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "el",
+      "startMs": 36340,
+      "endMs": 36460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 36460,
+      "endMs": 36540,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "diem,",
+      "startMs": 36540,
+      "endMs": 37260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "o",
+      "startMs": 37440,
+      "endMs": 37640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "recomanar-nos",
+      "startMs": 37640,
+      "endMs": 38300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "una",
+      "startMs": 38300,
+      "endMs": 38500,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "sèrie.",
+      "startMs": 38500,
+      "endMs": 38800,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "No",
+      "startMs": 39600,
+      "endMs": 39780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pensa",
+      "startMs": 39780,
+      "endMs": 40060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "com",
+      "startMs": 40060,
+      "endMs": 40380,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "una",
+      "startMs": 40380,
+      "endMs": 40520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "persona:",
+      "startMs": 40520,
+      "endMs": 40880,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "analitza",
+      "startMs": 41340,
+      "endMs": 41840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "moltes",
+      "startMs": 41840,
+      "endMs": 42260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "dades,",
+      "startMs": 42260,
+      "endMs": 42580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "hi",
+      "startMs": 42580,
+      "endMs": 43200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "troba",
+      "startMs": 43200,
+      "endMs": 43440,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "patrons",
+      "startMs": 43440,
+      "endMs": 43960,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 43960,
+      "endMs": 44240,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fa",
+      "startMs": 44240,
+      "endMs": 44340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "prediccions.",
+      "startMs": 44340,
+      "endMs": 45000,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Per",
+      "startMs": 45800,
+      "endMs": 46020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "reconèixer",
+      "startMs": 46020,
+      "endMs": 46600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "un",
+      "startMs": 46600,
+      "endMs": 46780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "gat,",
+      "startMs": 46780,
+      "endMs": 46980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "per",
+      "startMs": 47180,
+      "endMs": 47220,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "exemple,",
+      "startMs": 47220,
+      "endMs": 47640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ha",
+      "startMs": 48180,
+      "endMs": 48300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 48300,
+      "endMs": 48420,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "veure",
+      "startMs": 48420,
+      "endMs": 48600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "milers",
+      "startMs": 48600,
+      "endMs": 49360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 49360,
+      "endMs": 49460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fotos",
+      "startMs": 49460,
+      "endMs": 49780,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "fins",
+      "startMs": 49780,
+      "endMs": 50204,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 50204,
+      "endMs": 50628,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "aprèn",
+      "startMs": 50628,
+      "endMs": 51052,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "quins",
+      "startMs": 51052,
+      "endMs": 51476,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "trets",
+      "startMs": 51476,
+      "endMs": 51900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "el",
+      "startMs": 51900,
+      "endMs": 51980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "defineixen.",
+      "startMs": 51980,
+      "endMs": 52400,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "I",
+      "startMs": 53700,
+      "endMs": 54173,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ja",
+      "startMs": 54173,
+      "endMs": 54645,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 54645,
+      "endMs": 55118,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fem",
+      "startMs": 55118,
+      "endMs": 55591,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "servir",
+      "startMs": 55591,
+      "endMs": 56064,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "cada",
+      "startMs": 56064,
+      "endMs": 56536,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "dia,",
+      "startMs": 56536,
+      "endMs": 57009,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "moltes",
+      "startMs": 57009,
+      "endMs": 57482,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "vegades",
+      "startMs": 57482,
+      "endMs": 57955,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sense",
+      "startMs": 57955,
+      "endMs": 58427,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "adonar-nos-en:",
+      "startMs": 58427,
+      "endMs": 58900,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "quan",
+      "startMs": 59600,
+      "endMs": 60260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "desbloquegem",
+      "startMs": 60260,
+      "endMs": 60900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "el",
+      "startMs": 60900,
+      "endMs": 61060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "mòbil",
+      "startMs": 61060,
+      "endMs": 61340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "amb",
+      "startMs": 61340,
+      "endMs": 61520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 61520,
+      "endMs": 61680,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "cara,",
+      "startMs": 61680,
+      "endMs": 61980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "quan",
+      "startMs": 62680,
+      "endMs": 62720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Spotify",
+      "startMs": 62720,
+      "endMs": 63120,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ens",
+      "startMs": 63120,
+      "endMs": 63520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "recomana",
+      "startMs": 63520,
+      "endMs": 64000,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "música,",
+      "startMs": 64000,
+      "endMs": 64580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "o",
+      "startMs": 64580,
+      "endMs": 65100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "quan",
+      "startMs": 65100,
+      "endMs": 65420,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "el",
+      "startMs": 65420,
+      "endMs": 65620,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "GPS",
+      "startMs": 65620,
+      "endMs": 65920,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ens",
+      "startMs": 65920,
+      "endMs": 66190,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "busca",
+      "startMs": 66190,
+      "endMs": 66460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "el",
+      "startMs": 66460,
+      "endMs": 66730,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "camí",
+      "startMs": 66730,
+      "endMs": 67000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "més",
+      "startMs": 67000,
+      "endMs": 67200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ràpid.",
+      "startMs": 67200,
+      "endMs": 67560,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Una",
+      "startMs": 68100,
+      "endMs": 68340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "notícia",
+      "startMs": 68340,
+      "endMs": 68880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ho",
+      "startMs": 68880,
+      "endMs": 69220,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "demostra:",
+      "startMs": 69220,
+      "endMs": 69740,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "el",
+      "startMs": 70000,
+      "endMs": 70140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "2024,",
+      "startMs": 70140,
+      "endMs": 70700,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "el",
+      "startMs": 71560,
+      "endMs": 71680,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Premi",
+      "startMs": 71680,
+      "endMs": 71940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Nobel",
+      "startMs": 71940,
+      "endMs": 72200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 72200,
+      "endMs": 72480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Química",
+      "startMs": 72480,
+      "endMs": 73020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "va",
+      "startMs": 73480,
+      "endMs": 73560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "reconèixer",
+      "startMs": 73560,
+      "endMs": 74140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "AlphaFold,",
+      "startMs": 74140,
+      "endMs": 74860,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "una",
+      "startMs": 75300,
+      "endMs": 75540,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "IA",
+      "startMs": 75540,
+      "endMs": 75950,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 75950,
+      "endMs": 76360,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Google",
+      "startMs": 76360,
+      "endMs": 76770,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "DeepMind",
+      "startMs": 76770,
+      "endMs": 77180,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 77180,
+      "endMs": 77260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "prediu",
+      "startMs": 77260,
+      "endMs": 77760,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 77760,
+      "endMs": 77880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "forma",
+      "startMs": 77880,
+      "endMs": 78140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 78140,
+      "endMs": 78320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "les",
+      "startMs": 78320,
+      "endMs": 78460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "proteïnes,",
+      "startMs": 78460,
+      "endMs": 79000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "una",
+      "startMs": 79460,
+      "endMs": 79680,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "feina",
+      "startMs": 79680,
+      "endMs": 80100,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "que",
+      "startMs": 80100,
+      "endMs": 80560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "als",
+      "startMs": 80560,
+      "endMs": 80680,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "científics",
+      "startMs": 80680,
+      "endMs": 81380,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "els",
+      "startMs": 81380,
+      "endMs": 81820,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "podia",
+      "startMs": 81820,
+      "endMs": 82260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "costar",
+      "startMs": 82260,
+      "endMs": 82393,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "anys.",
+      "startMs": 82393,
+      "endMs": 82600,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Aquest",
+      "startMs": 83600,
+      "endMs": 84000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 84000,
+      "endMs": 84620,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "només",
+      "startMs": 84620,
+      "endMs": 84880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "un",
+      "startMs": 84880,
+      "endMs": 85020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "exemple.",
+      "startMs": 85020,
+      "endMs": 85360,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "La",
+      "startMs": 85360,
+      "endMs": 86080,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pregunta",
+      "startMs": 86080,
+      "endMs": 86380,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 86380,
+      "endMs": 86980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "més",
+      "startMs": 86980,
+      "endMs": 86980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "gran:",
+      "startMs": 86980,
+      "endMs": 87000,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "la",
+      "startMs": 87600,
+      "endMs": 87830,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "intel·ligència",
+      "startMs": 87830,
+      "endMs": 88060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "artificial",
+      "startMs": 88060,
+      "endMs": 88680,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 88680,
+      "endMs": 89300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "una",
+      "startMs": 89300,
+      "endMs": 89460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "OPORTUNITAT",
+      "startMs": 89460,
+      "endMs": 90160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "o",
+      "startMs": 90160,
+      "endMs": 90500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "una",
+      "startMs": 90500,
+      "endMs": 90660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "AMENAÇA?",
+      "startMs": 90660,
+      "endMs": 91800,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Començo",
+      "startMs": 92600,
+      "endMs": 93260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pels",
+      "startMs": 93260,
+      "endMs": 93710,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "arguments",
+      "startMs": 93710,
+      "endMs": 94160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 94160,
+      "endMs": 94320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "favor.",
+      "startMs": 94320,
+      "endMs": 94480,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "El",
+      "startMs": 95400,
+      "endMs": 95600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "primer",
+      "startMs": 95600,
+      "endMs": 95960,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 95960,
+      "endMs": 96300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 96300,
+      "endMs": 96440,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "SALUT.",
+      "startMs": 96440,
+      "endMs": 96780,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "La",
+      "startMs": 97820,
+      "endMs": 98020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "IA",
+      "startMs": 98020,
+      "endMs": 98200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ajuda",
+      "startMs": 98200,
+      "endMs": 98740,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 98740,
+      "endMs": 98940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "analitzar",
+      "startMs": 98940,
+      "endMs": 99400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "radiografies,",
+      "startMs": 99400,
+      "endMs": 100200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 100680,
+      "endMs": 100720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "detectar",
+      "startMs": 100720,
+      "endMs": 101160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "malalties",
+      "startMs": 101160,
+      "endMs": 101780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "abans",
+      "startMs": 101780,
+      "endMs": 102400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 102820,
+      "endMs": 102880,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "a",
+      "startMs": 102880,
+      "endMs": 102920,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "accelerar",
+      "startMs": 102920,
+      "endMs": 103340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 103340,
+      "endMs": 103580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "recerca",
+      "startMs": 103580,
+      "endMs": 103980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 103980,
+      "endMs": 104180,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "medicaments.",
+      "startMs": 104180,
+      "endMs": 104620,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Un",
+      "startMs": 105500,
+      "endMs": 105780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "diagnòstic",
+      "startMs": 105780,
+      "endMs": 106500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ràpid",
+      "startMs": 106500,
+      "endMs": 106940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pot",
+      "startMs": 107300,
+      "endMs": 107580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "salvar",
+      "startMs": 107580,
+      "endMs": 107800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "vides.",
+      "startMs": 107800,
+      "endMs": 108000,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "El",
+      "startMs": 109300,
+      "endMs": 109480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "segon",
+      "startMs": 109480,
+      "endMs": 109940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 109940,
+      "endMs": 110240,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "l'EDUCACIÓ.",
+      "startMs": 110240,
+      "endMs": 111440,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Cada",
+      "startMs": 111440,
+      "endMs": 111680,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "alumne",
+      "startMs": 111680,
+      "endMs": 111967,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "aprèn",
+      "startMs": 111967,
+      "endMs": 112253,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 112253,
+      "endMs": 112540,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "un",
+      "startMs": 112540,
+      "endMs": 112660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ritme",
+      "startMs": 112660,
+      "endMs": 112920,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "diferent,",
+      "startMs": 112920,
+      "endMs": 113460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 113460,
+      "endMs": 113740,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 113740,
+      "endMs": 113900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "IA",
+      "startMs": 113900,
+      "endMs": 114080,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pot",
+      "startMs": 114080,
+      "endMs": 114700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "adaptar",
+      "startMs": 114700,
+      "endMs": 115120,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "els",
+      "startMs": 115120,
+      "endMs": 115380,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "exercicis",
+      "startMs": 115380,
+      "endMs": 116020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 116020,
+      "endMs": 116160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "cadascun",
+      "startMs": 116160,
+      "endMs": 116660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 117040,
+      "endMs": 117260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "resoldre",
+      "startMs": 117260,
+      "endMs": 117780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "dubtes",
+      "startMs": 117780,
+      "endMs": 118140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 118140,
+      "endMs": 118440,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "qualsevol",
+      "startMs": 118440,
+      "endMs": 118840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "hora,",
+      "startMs": 118840,
+      "endMs": 119160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fins",
+      "startMs": 119160,
+      "endMs": 119613,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 119613,
+      "endMs": 120067,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "tot",
+      "startMs": 120067,
+      "endMs": 120520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 120520,
+      "endMs": 120740,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "nit",
+      "startMs": 120740,
+      "endMs": 120900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "abans",
+      "startMs": 120900,
+      "endMs": 121180,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "d'un",
+      "startMs": 121180,
+      "endMs": 121360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "examen.",
+      "startMs": 121360,
+      "endMs": 121920,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "El",
+      "startMs": 123900,
+      "endMs": 124040,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tercer",
+      "startMs": 124040,
+      "endMs": 124360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 124360,
+      "endMs": 125100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 125100,
+      "endMs": 125220,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "VIDA",
+      "startMs": 125220,
+      "endMs": 125340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "QUOTIDIANA.",
+      "startMs": 125340,
+      "endMs": 125940,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Els",
+      "startMs": 125940,
+      "endMs": 126580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "traductors",
+      "startMs": 126580,
+      "endMs": 127220,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ens",
+      "startMs": 127220,
+      "endMs": 127860,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "permeten",
+      "startMs": 127860,
+      "endMs": 128300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "entendre",
+      "startMs": 128300,
+      "endMs": 128740,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "idiomes",
+      "startMs": 128740,
+      "endMs": 129100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 129100,
+      "endMs": 129300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 129300,
+      "endMs": 129440,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "coneixem,",
+      "startMs": 129440,
+      "endMs": 130060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "els",
+      "startMs": 130060,
+      "endMs": 130420,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "mapes",
+      "startMs": 130420,
+      "endMs": 130940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ens",
+      "startMs": 130940,
+      "endMs": 131500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "estalvien",
+      "startMs": 131500,
+      "endMs": 132060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "temps",
+      "startMs": 132060,
+      "endMs": 132400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 132800,
+      "endMs": 132980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "els",
+      "startMs": 132980,
+      "endMs": 133388,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "assistents",
+      "startMs": 133388,
+      "endMs": 133796,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "virtuals",
+      "startMs": 133796,
+      "endMs": 134204,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ens",
+      "startMs": 134204,
+      "endMs": 134612,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ajuden",
+      "startMs": 134612,
+      "endMs": 135020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 135020,
+      "endMs": 135180,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "organitzar-nos.",
+      "startMs": 135180,
+      "endMs": 137000,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Ara,",
+      "startMs": 139100,
+      "endMs": 139740,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "els",
+      "startMs": 139980,
+      "endMs": 140360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "arguments",
+      "startMs": 140360,
+      "endMs": 140660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "en",
+      "startMs": 140660,
+      "endMs": 140940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "contra.",
+      "startMs": 140940,
+      "endMs": 141200,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "El",
+      "startMs": 141700,
+      "endMs": 141840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "primer",
+      "startMs": 141840,
+      "endMs": 142160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 142160,
+      "endMs": 142760,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 142760,
+      "endMs": 142920,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "FIABILITAT.",
+      "startMs": 142920,
+      "endMs": 143440,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "La",
+      "startMs": 143440,
+      "endMs": 144100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "IA",
+      "startMs": 144100,
+      "endMs": 144320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "es",
+      "startMs": 144418,
+      "endMs": 144563,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pot",
+      "startMs": 144563,
+      "endMs": 144800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "equivocar",
+      "startMs": 144800,
+      "endMs": 145420,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 145420,
+      "endMs": 145720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "donar",
+      "startMs": 145720,
+      "endMs": 145900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "informació",
+      "startMs": 145900,
+      "endMs": 146500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "falsa",
+      "startMs": 146500,
+      "endMs": 147040,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "amb",
+      "startMs": 147040,
+      "endMs": 147300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "molta",
+      "startMs": 147300,
+      "endMs": 147560,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "seguretat.",
+      "startMs": 147560,
+      "endMs": 148080,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "A",
+      "startMs": 148600,
+      "endMs": 148780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "més,",
+      "startMs": 148780,
+      "endMs": 149500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "permet",
+      "startMs": 149500,
+      "endMs": 150140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "crear",
+      "startMs": 150140,
+      "endMs": 150460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fotos",
+      "startMs": 150460,
+      "endMs": 151100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 151100,
+      "endMs": 151820,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "vídeos",
+      "startMs": 151820,
+      "endMs": 152020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "falsos",
+      "startMs": 152020,
+      "endMs": 152520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 152520,
+      "endMs": 152700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "semblen",
+      "startMs": 152700,
+      "endMs": 153060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "reals,",
+      "startMs": 153060,
+      "endMs": 153600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "els",
+      "startMs": 153600,
+      "endMs": 154467,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "anomenats",
+      "startMs": 154467,
+      "endMs": 155333,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "DEEPFAKES.",
+      "startMs": 155333,
+      "endMs": 156200,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Abans",
+      "startMs": 156740,
+      "endMs": 157059,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pensàvem",
+      "startMs": 157059,
+      "endMs": 157378,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que,",
+      "startMs": 157378,
+      "endMs": 157697,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "si",
+      "startMs": 157697,
+      "endMs": 158016,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ho",
+      "startMs": 158016,
+      "endMs": 158334,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "havíem",
+      "startMs": 158334,
+      "endMs": 158653,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "vist",
+      "startMs": 158653,
+      "endMs": 158972,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "en",
+      "startMs": 158972,
+      "endMs": 159291,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "un",
+      "startMs": 159291,
+      "endMs": 159610,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "vídeo,",
+      "startMs": 159610,
+      "endMs": 159929,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "era",
+      "startMs": 159929,
+      "endMs": 160248,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "veritat.",
+      "startMs": 160248,
+      "endMs": 160567,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Ara",
+      "startMs": 160567,
+      "endMs": 160886,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ja",
+      "startMs": 160886,
+      "endMs": 161204,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 161204,
+      "endMs": 161523,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "n’estem",
+      "startMs": 161523,
+      "endMs": 161842,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tan",
+      "startMs": 161842,
+      "endMs": 162161,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "segurs.",
+      "startMs": 162161,
+      "endMs": 162480,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "El",
+      "startMs": 163800,
+      "endMs": 164209,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "segon",
+      "startMs": 164209,
+      "endMs": 164618,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 164618,
+      "endMs": 165027,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 165027,
+      "endMs": 165436,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "PRIVACITAT.",
+      "startMs": 165436,
+      "endMs": 165845,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Aquests",
+      "startMs": 165845,
+      "endMs": 166255,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sistemes",
+      "startMs": 166255,
+      "endMs": 166664,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "funcionen",
+      "startMs": 166664,
+      "endMs": 167073,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "amb",
+      "startMs": 167073,
+      "endMs": 167482,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "dades,",
+      "startMs": 167482,
+      "endMs": 167891,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 167891,
+      "endMs": 168300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "molts",
+      "startMs": 168300,
+      "endMs": 168709,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "cops",
+      "startMs": 168709,
+      "endMs": 169118,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 169118,
+      "endMs": 169527,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sabem",
+      "startMs": 169527,
+      "endMs": 169936,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "qui",
+      "startMs": 169936,
+      "endMs": 170345,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "les",
+      "startMs": 170345,
+      "endMs": 170755,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "recull",
+      "startMs": 170755,
+      "endMs": 171164,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ni",
+      "startMs": 171164,
+      "endMs": 171573,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "què",
+      "startMs": 171573,
+      "endMs": 171982,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "en",
+      "startMs": 171982,
+      "endMs": 172391,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fa.",
+      "startMs": 172391,
+      "endMs": 172800,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Si",
+      "startMs": 173420,
+      "endMs": 174080,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "el",
+      "startMs": 174080,
+      "endMs": 174460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "mòbil",
+      "startMs": 174460,
+      "endMs": 174480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sap",
+      "startMs": 174480,
+      "endMs": 174640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 174640,
+      "endMs": 174920,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "estàs",
+      "startMs": 174920,
+      "endMs": 175320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "malalt,",
+      "startMs": 175320,
+      "endMs": 175700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "qui",
+      "startMs": 176080,
+      "endMs": 176360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "més",
+      "startMs": 176360,
+      "endMs": 176600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ho",
+      "startMs": 176600,
+      "endMs": 176720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sap?",
+      "startMs": 176720,
+      "endMs": 176940,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "El",
+      "startMs": 177980,
+      "endMs": 178240,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tercer",
+      "startMs": 178240,
+      "endMs": 178520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 178520,
+      "endMs": 178960,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 178960,
+      "endMs": 179140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "FEINA",
+      "startMs": 179140,
+      "endMs": 179580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "I",
+      "startMs": 179580,
+      "endMs": 179820,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "L'ÚS",
+      "startMs": 179820,
+      "endMs": 180060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ÈTIC.",
+      "startMs": 180060,
+      "endMs": 180420,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Algunes",
+      "startMs": 180920,
+      "endMs": 181480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "professions",
+      "startMs": 181480,
+      "endMs": 181960,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "canviaran,",
+      "startMs": 181960,
+      "endMs": 182300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 182300,
+      "endMs": 182640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 182640,
+      "endMs": 182980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "classe,",
+      "startMs": 182980,
+      "endMs": 183340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "si",
+      "startMs": 183340,
+      "endMs": 183860,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fem",
+      "startMs": 183860,
+      "endMs": 184020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "servir",
+      "startMs": 184020,
+      "endMs": 184320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 184320,
+      "endMs": 184640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "IA",
+      "startMs": 184640,
+      "endMs": 184780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "per",
+      "startMs": 184780,
+      "endMs": 184980,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "fer",
+      "startMs": 184980,
+      "endMs": 185140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "un",
+      "startMs": 185140,
+      "endMs": 185260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "treball",
+      "startMs": 185260,
+      "endMs": 185560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sense",
+      "startMs": 185560,
+      "endMs": 185800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "entendre'l,",
+      "startMs": 185800,
+      "endMs": 187100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 187100,
+      "endMs": 187300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "aprenem",
+      "startMs": 187300,
+      "endMs": 187700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "res,",
+      "startMs": 187700,
+      "endMs": 188233,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "només",
+      "startMs": 188233,
+      "endMs": 188767,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "copiem.",
+      "startMs": 188767,
+      "endMs": 189300,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Per",
+      "startMs": 190020,
+      "endMs": 190260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tant,",
+      "startMs": 190260,
+      "endMs": 190480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "els",
+      "startMs": 190780,
+      "endMs": 190920,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "beneficis",
+      "startMs": 190920,
+      "endMs": 191600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "són",
+      "startMs": 191600,
+      "endMs": 191780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "enormes,",
+      "startMs": 191780,
+      "endMs": 192340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "però",
+      "startMs": 192400,
+      "endMs": 192600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "els",
+      "startMs": 192600,
+      "endMs": 192900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "riscos",
+      "startMs": 192900,
+      "endMs": 193220,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "també.",
+      "startMs": 193220,
+      "endMs": 193640,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Per",
+      "startMs": 194240,
+      "endMs": 194460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "això",
+      "startMs": 194460,
+      "endMs": 194660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "calen",
+      "startMs": 194660,
+      "endMs": 195060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "normes",
+      "startMs": 195060,
+      "endMs": 195580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 195580,
+      "endMs": 195780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "un",
+      "startMs": 195780,
+      "endMs": 196100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ús",
+      "startMs": 196100,
+      "endMs": 196420,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "responsable.",
+      "startMs": 196420,
+      "endMs": 196740,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Tornem",
+      "startMs": 198200,
+      "endMs": 198560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "al",
+      "startMs": 198560,
+      "endMs": 198720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "principi:",
+      "startMs": 198720,
+      "endMs": 199360,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "un",
+      "startMs": 199520,
+      "endMs": 199700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "mòbil",
+      "startMs": 199700,
+      "endMs": 199880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 199880,
+      "endMs": 200100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sap",
+      "startMs": 200100,
+      "endMs": 200280,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 200280,
+      "endMs": 200440,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "estàs",
+      "startMs": 200440,
+      "endMs": 200720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "malalt",
+      "startMs": 200720,
+      "endMs": 201040,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "abans",
+      "startMs": 201040,
+      "endMs": 201420,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "que",
+      "startMs": 201420,
+      "endMs": 201560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tu.",
+      "startMs": 201560,
+      "endMs": 201740,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Ara",
+      "startMs": 201900,
+      "endMs": 202540,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ja",
+      "startMs": 202540,
+      "endMs": 203200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 203200,
+      "endMs": 203360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sembla",
+      "startMs": 203360,
+      "endMs": 203640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tan",
+      "startMs": 203640,
+      "endMs": 203980,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "estrany,",
+      "startMs": 203980,
+      "endMs": 204400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "oi?",
+      "startMs": 204580,
+      "endMs": 204820,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "La",
+      "startMs": 205260,
+      "endMs": 205520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "IA",
+      "startMs": 205520,
+      "endMs": 205820,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ja",
+      "startMs": 205820,
+      "endMs": 206400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 206400,
+      "endMs": 206620,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "als",
+      "startMs": 206620,
+      "endMs": 206840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "nostres",
+      "startMs": 206840,
+      "endMs": 207260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "mòbils,",
+      "startMs": 207260,
+      "endMs": 207840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "a",
+      "startMs": 208060,
+      "endMs": 208060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "les",
+      "startMs": 208060,
+      "endMs": 208200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "aules",
+      "startMs": 208200,
+      "endMs": 208560,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "i",
+      "startMs": 208560,
+      "endMs": 208860,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "als",
+      "startMs": 208860,
+      "endMs": 209340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "hospitals.",
+      "startMs": 209340,
+      "endMs": 209820,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "No",
+      "startMs": 210360,
+      "endMs": 210580,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 210580,
+      "endMs": 210740,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "una",
+      "startMs": 210740,
+      "endMs": 210900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "cosa",
+      "startMs": 210900,
+      "endMs": 211080,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "del",
+      "startMs": 211080,
+      "endMs": 211300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "futur:",
+      "startMs": 211300,
+      "endMs": 211560,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "és",
+      "startMs": 212000,
+      "endMs": 212140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "del",
+      "startMs": 212140,
+      "endMs": 212320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "present.",
+      "startMs": 212320,
+      "endMs": 212620,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Per",
+      "startMs": 213160,
+      "endMs": 213340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "això",
+      "startMs": 213340,
+      "endMs": 213640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 213640,
+      "endMs": 214260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "hem",
+      "startMs": 214260,
+      "endMs": 214460,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 214460,
+      "endMs": 214720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tenir",
+      "startMs": 214720,
+      "endMs": 214960,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ni",
+      "startMs": 214960,
+      "endMs": 215240,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "por",
+      "startMs": 215240,
+      "endMs": 215480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ni",
+      "startMs": 215480,
+      "endMs": 215780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "confiança",
+      "startMs": 215780,
+      "endMs": 216320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "cega,",
+      "startMs": 216320,
+      "endMs": 216780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sinó",
+      "startMs": 216780,
+      "endMs": 217240,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "SENTIT",
+      "startMs": 217240,
+      "endMs": 217700,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "CRÍTIC.",
+      "startMs": 217700,
+      "endMs": 218040,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "La",
+      "startMs": 218660,
+      "endMs": 218780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pregunta",
+      "startMs": 218780,
+      "endMs": 219060,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "important",
+      "startMs": 219060,
+      "endMs": 219680,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "no",
+      "startMs": 219680,
+      "endMs": 220260,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "és",
+      "startMs": 220260,
+      "endMs": 220440,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "què",
+      "startMs": 220440,
+      "endMs": 220600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "pot",
+      "startMs": 220600,
+      "endMs": 220880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "fer",
+      "startMs": 220880,
+      "endMs": 221140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 221140,
+      "endMs": 221360,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "IA,",
+      "startMs": 221360,
+      "endMs": 221720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sinó",
+      "startMs": 221720,
+      "endMs": 222040,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "què",
+      "startMs": 222040,
+      "endMs": 222500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "decidim",
+      "startMs": 222500,
+      "endMs": 222880,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "fer",
+      "startMs": 222880,
+      "endMs": 223160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "NOSALTRES",
+      "startMs": 223160,
+      "endMs": 223840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "amb",
+      "startMs": 223840,
+      "endMs": 224180,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ella.",
+      "startMs": 224180,
+      "endMs": 224500,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "La",
+      "startMs": 224980,
+      "endMs": 225120,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tecnologia",
+      "startMs": 225120,
+      "endMs": 225720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "avançarà",
+      "startMs": 225720,
+      "endMs": 226540,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "igualment,",
+      "startMs": 226540,
+      "endMs": 227080,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "però",
+      "startMs": 227540,
+      "endMs": 227800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "la",
+      "startMs": 227800,
+      "endMs": 228000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "decisió",
+      "startMs": 228000,
+      "endMs": 228480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "de",
+      "startMs": 228480,
+      "endMs": 228640,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "com",
+      "startMs": 228640,
+      "endMs": 228840,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "utilitzar-la",
+      "startMs": 228840,
+      "endMs": 229233,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "seguirà",
+      "startMs": 229233,
+      "endMs": 229627,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "sent",
+      "startMs": 229627,
+      "endMs": 230020,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "humana.",
+      "startMs": 230020,
+      "endMs": 230620,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  [
+    {
+      "text": "Moltes",
+      "startMs": 230620,
+      "endMs": 231380,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "gràcies.",
+      "startMs": 231380,
+      "endMs": 231740,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ]
+]

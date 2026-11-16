@@ -1,0 +1,307 @@
+1
+00:00:04,200 --> 00:00:09,160
+T'imagines un món on el mòbil sàpiga que
+estàs malalt abans que
+
+2
+00:00:09,160 --> 00:00:09,380
+tu?
+
+3
+00:00:10,600 --> 00:00:13,300
+Pot semblar ciència-ficció, però no ho és
+tant.
+
+4
+00:00:13,640 --> 00:00:18,200
+Alguns rellotges intel·ligents ja detecten
+canvis en el pols que
+
+5
+00:00:18,200 --> 00:00:19,700
+avisen que alguna cosa no va bé.
+
+6
+00:00:20,400 --> 00:00:22,920
+I al darrere hi ha la intel·ligència
+artificial.
+
+7
+00:00:24,900 --> 00:00:27,000
+Però, què és exactament la IA?
+
+8
+00:00:27,440 --> 00:00:31,100
+És la capacitat de les màquines de fer
+tasques que normalment
+
+9
+00:00:31,100 --> 00:00:33,700
+necessiten intel·ligència humana:
+
+10
+00:00:34,220 --> 00:00:38,500
+reconèixer una cara, entendre el que diem,
+o recomanar-nos una
+
+11
+00:00:38,500 --> 00:00:38,800
+sèrie.
+
+12
+00:00:39,600 --> 00:00:40,880
+No pensa com una persona:
+
+13
+00:00:41,340 --> 00:00:45,000
+analitza moltes dades, hi troba patrons i
+fa prediccions.
+
+14
+00:00:45,800 --> 00:00:49,780
+Per reconèixer un gat, per exemple, ha de
+veure milers de fotos
+
+15
+00:00:49,780 --> 00:00:52,400
+fins que aprèn quins trets el defineixen.
+
+16
+00:00:53,700 --> 00:00:58,900
+I ja la fem servir cada dia, moltes
+vegades sense adonar-nos-en:
+
+17
+00:00:59,600 --> 00:01:04,000
+quan desbloquegem el mòbil amb la cara,
+quan Spotify ens recomana
+
+18
+00:01:04,000 --> 00:01:07,560
+música, o quan el GPS ens busca el camí
+més ràpid.
+
+19
+00:01:08,100 --> 00:01:09,740
+Una notícia ho demostra:
+
+20
+00:01:10,000 --> 00:01:10,700
+el 2024,
+
+21
+00:01:11,560 --> 00:01:16,360
+el Premi Nobel de Química va reconèixer
+AlphaFold, una IA de
+
+22
+00:01:16,360 --> 00:01:20,100
+Google DeepMind que prediu la forma de les
+proteïnes, una feina
+
+23
+00:01:20,100 --> 00:01:22,600
+que als científics els podia costar anys.
+
+24
+00:01:23,600 --> 00:01:25,360
+Aquest és només un exemple.
+
+25
+00:01:25,360 --> 00:01:27,000
+La pregunta és més gran:
+
+26
+00:01:27,600 --> 00:01:31,800
+la intel·ligència artificial és una
+OPORTUNITAT o una AMENAÇA?
+
+27
+00:01:32,600 --> 00:01:34,480
+Començo pels arguments a favor.
+
+28
+00:01:35,400 --> 00:01:36,780
+El primer és la SALUT.
+
+29
+00:01:37,820 --> 00:01:42,880
+La IA ajuda a analitzar radiografies, a
+detectar malalties abans i
+
+30
+00:01:42,880 --> 00:01:44,620
+a accelerar la recerca de medicaments.
+
+31
+00:01:45,500 --> 00:01:48,000
+Un diagnòstic ràpid pot salvar vides.
+
+32
+00:01:49,300 --> 00:01:51,440
+El segon és l'EDUCACIÓ.
+
+33
+00:01:51,440 --> 00:01:55,380
+Cada alumne aprèn a un ritme diferent, i
+la IA pot adaptar els
+
+34
+00:01:55,380 --> 00:02:00,067
+exercicis a cadascun i resoldre dubtes a
+qualsevol hora, fins i
+
+35
+00:02:00,067 --> 00:02:01,920
+tot la nit abans d'un examen.
+
+36
+00:02:03,900 --> 00:02:05,940
+El tercer és la VIDA QUOTIDIANA.
+
+37
+00:02:05,940 --> 00:02:10,420
+Els traductors ens permeten entendre
+idiomes que no coneixem, els
+
+38
+00:02:10,420 --> 00:02:15,180
+mapes ens estalvien temps i els assistents
+virtuals ens ajuden a
+
+39
+00:02:15,180 --> 00:02:17,000
+organitzar-nos.
+
+40
+00:02:19,100 --> 00:02:21,200
+Ara, els arguments en contra.
+
+41
+00:02:21,700 --> 00:02:23,440
+El primer és la FIABILITAT.
+
+42
+00:02:23,440 --> 00:02:27,560
+La IA es pot equivocar i donar informació
+falsa amb molta
+
+43
+00:02:27,560 --> 00:02:28,080
+seguretat.
+
+44
+00:02:28,600 --> 00:02:34,467
+A més, permet crear fotos i vídeos falsos
+que semblen reals, els
+
+45
+00:02:34,467 --> 00:02:36,200
+anomenats DEEPFAKES.
+
+46
+00:02:36,740 --> 00:02:40,567
+Abans pensàvem que, si ho havíem vist en
+un vídeo, era veritat.
+
+47
+00:02:40,567 --> 00:02:42,480
+Ara ja no n’estem tan segurs.
+
+48
+00:02:43,800 --> 00:02:45,845
+El segon és la PRIVACITAT.
+
+49
+00:02:45,845 --> 00:02:50,345
+Aquests sistemes funcionen amb dades, i
+molts cops no sabem qui
+
+50
+00:02:50,345 --> 00:02:52,800
+les recull ni què en fa.
+
+51
+00:02:53,420 --> 00:02:56,940
+Si el mòbil sap que estàs malalt, qui més
+ho sap?
+
+52
+00:02:57,980 --> 00:03:00,420
+El tercer és la FEINA I L'ÚS ÈTIC.
+
+53
+00:03:00,920 --> 00:03:04,980
+Algunes professions canviaran, i a classe,
+si fem servir la IA per
+
+54
+00:03:04,980 --> 00:03:09,300
+fer un treball sense entendre'l, no
+aprenem res, només copiem.
+
+55
+00:03:10,020 --> 00:03:13,640
+Per tant, els beneficis són enormes, però
+els riscos també.
+
+56
+00:03:14,240 --> 00:03:16,740
+Per això calen normes i un ús responsable.
+
+57
+00:03:18,200 --> 00:03:19,360
+Tornem al principi:
+
+58
+00:03:19,520 --> 00:03:21,740
+un mòbil que sap que estàs malalt abans
+que tu.
+
+59
+00:03:21,900 --> 00:03:24,820
+Ara ja no sembla tan estrany, oi?
+
+60
+00:03:25,260 --> 00:03:29,820
+La IA ja és als nostres mòbils, a les
+aules i als hospitals.
+
+61
+00:03:30,360 --> 00:03:31,560
+No és una cosa del futur:
+
+62
+00:03:32,000 --> 00:03:32,620
+és del present.
+
+63
+00:03:33,160 --> 00:03:37,700
+Per això no hem de tenir ni por ni
+confiança cega, sinó SENTIT
+
+64
+00:03:37,700 --> 00:03:38,040
+CRÍTIC.
+
+65
+00:03:38,660 --> 00:03:42,880
+La pregunta important no és què pot fer la
+IA, sinó què decidim
+
+66
+00:03:42,880 --> 00:03:44,500
+fer NOSALTRES amb ella.
+
+67
+00:03:44,980 --> 00:03:48,840
+La tecnologia avançarà igualment, però la
+decisió de com
+
+68
+00:03:48,840 --> 00:03:50,620
+utilitzar-la seguirà sent humana.
+
+69
+00:03:50,620 --> 00:03:51,740
+Moltes gràcies.

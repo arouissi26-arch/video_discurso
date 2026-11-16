@@ -1,0 +1,11 @@
+export const FPS = 30;
+export const INTRO = 120;
+export const CLIP1_START = 12;
+export const CLIP1_END = 5955;
+export const CLIP1_DURATION = CLIP1_END - CLIP1_START;
+export const CLIP2_DURATION = 904;
+export const OVERLAP = 6;
+export const OUTRO = 150;
+export const TOTAL = INTRO + CLIP1_DURATION + CLIP2_DURATION - OVERLAP + OUTRO;
+export type Titles = {name: string; subject: string; course: string};
+export const defaultTitles: Titles = {name: '[NOM]', subject: '[ASSIGNATURA]', course: '[CURS]'};
