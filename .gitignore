@@ -1,0 +1,11 @@
+node_modules/
+.cache/
+out/
+dist/
+build/
+public/clip_1*.mp4
+public/clip_2*.mp4
+public/clip_1*.mov
+public/clip_2*.mov
+*.tsbuildinfo
+.DS_Store
