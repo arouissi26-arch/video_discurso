@@ -1,0 +1,38 @@
+{
+  "name": "video_discurso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Main out/final.mp4 --codec h264 --crf 18 --audio-bitrate 192k --concurrency 1",
+    "check": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arouissi26-arch/video_discurso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arouissi26-arch/video_discurso/issues"
+  },
+  "homepage": "https://github.com/arouissi26-arch/video_discurso#readme",
+  "dependencies": {
+    "@ffmpeg-installer/linux-x64": "4.1.0",
+    "@fontsource/space-grotesk": "5.3.0",
+    "@remotion/captions": "4.0.543",
+    "@remotion/cli": "4.0.543",
+    "@remotion/google-fonts": "4.0.543",
+    "@remotion/transitions": "4.0.543",
+    "@sparticuz/chromium": "153.0.0",
+    "@types/react": "19.3.0",
+    "ffprobe-static": "3.1.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.543",
+    "typescript": "7.0.2"
+  },
+  "private": true
+}
