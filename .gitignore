@@ -1,0 +1,9 @@
+node_modules/
+out/
+renders/
+clips_reales/clip_1.mov
+public/clip_1.mov
+public/clip_2.mov
+*.log
+.cache/
+whisper.cpp/

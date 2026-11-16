@@ -1,0 +1,36 @@
+{
+  "name": "editorial-brutalist-tech-ai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "prepare-media": "node scripts/prepare-media.mjs",
+    "srt": "tsx scripts/export-srt.ts",
+    "transcribe:ca": "node scripts/transcribe-whisper.mjs",
+    "render": "node scripts/render-final.mjs",
+    "stills": "remotion still src/index.ts Main"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/linux-x64": "4.1.0",
+    "@ffprobe-installer/linux-x64": "5.2.0",
+    "@fontsource-variable/bricolage-grotesque": "^5.2.6",
+    "@fontsource-variable/inter-tight": "^5.2.6",
+    "@fontsource/instrument-serif": "^5.2.6",
+    "@fontsource/jetbrains-mono": "^5.2.6",
+    "@remotion/captions": "4.0.544",
+    "@remotion/google-fonts": "4.0.544",
+    "@remotion/install-whisper-cpp": "4.0.544",
+    "@remotion/media-utils": "4.0.544",
+    "@remotion/transitions": "4.0.544",
+    "@sparticuz/chromium": "153.0.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.544"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.544",
+    "@types/react": "19.1.8",
+    "tsx": "4.23.15",
+    "typescript": "5.8.3"
+  }
+}
